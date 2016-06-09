@@ -22,3 +22,9 @@ Advised to add to windows startup folder. Does much of the "babysitting" of the 
 
 
 TODO - find out why SCCM is so awful. :)
+
+#mouseposandcolor
+
+hotkey: ctrl+shift+z
+
+captures and displays mouse's current position and pixel color of position.
