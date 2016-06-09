@@ -10,7 +10,7 @@ produces a GUI that includes commonly used processes that saves time seeking and
 2. Forces group policy update via cmd and runs through client update actions via the configuration manager
 3. Resets and requests machine policy
 4. quick paths to cache window to increase/delete cache
-5. runs joindom executable to add user to computer with provided userID
+5. runs joindom executable to add user to computer with provided userID (this won't work unless you change exe's dir; coded to my needs by default)
 
 #KIS_desktop_1.3.2 (run as Admin)
 
