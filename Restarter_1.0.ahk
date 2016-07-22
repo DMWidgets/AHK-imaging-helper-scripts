@@ -2,11 +2,19 @@ sleep 180000
 Gosub ForceUpdates
 sleep 120000
 Gosub runSCCM
-Gosub install_all_available_software
+;Gosub install_all_available_software ;don't need to run this, most software will install by itself anyways
 Gosub wait_and_restart
 
 wait_and_restart:
 SetKeyDelay 1000
+sleep 300000 ;40 min keepalive
+send {LWin 2}
+sleep 300000
+send {LWin 2}
+sleep 300000
+send {LWin 2}
+sleep 300000
+send {LWin 2}
 sleep 300000
 send {LWin 2}
 sleep 300000
