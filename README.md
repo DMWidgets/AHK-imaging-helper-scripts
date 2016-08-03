@@ -1,6 +1,6 @@
 # AHK-imaging-helper-scripts
 
-This repo contains AHK scripts I've written to help streamline the tempermental process of imaging new laptops in my corporate environment. Much of the process is "hurry up and wait" so short bursts of user input happen every 20 minutes or so which necessitates someone babysitting the machines. These scripts are written so to the end that they do the lion's share of the babysitting.
+This repo contains AHK scripts I've written to help streamline the tempermental process of imaging new laptops in my corporate environment. Much of the process is "hurry up and wait" so short bursts of user input happen every 20 minutes or so which necessitates someone babysitting the machines. These scripts are written to the end that they do the lion's share of the babysitting.
 
 #KIS_1.4.5 (run as Admin)
 
